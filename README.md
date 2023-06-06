@@ -34,15 +34,15 @@ Se você quer se juntar em um grupo com outras pessoas que usam o PoopGPT ou som
 
 ## 🛂 Responsabilidade
 
-1. `Ao utilizar este script, você concorda em assumir total responsabilidade por suas ações. Você reconhece que o uso inadequado ou ilegal deste script pode resultar em consequências legais, danos ou prejuízos para terceiros.`
+- 1. ``Ao utilizar este script, você concorda em assumir total responsabilidade por suas ações. Você reconhece que o uso inadequado ou ilegal deste script pode resultar em consequências legais, danos ou prejuízos para terceiros.``
 
-2. `Você concorda em utilizar este script apenas para fins legítimos e éticos, respeitando todas as leis, regulamentos e diretrizes aplicáveis. Você não deve usá-lo para disseminar conteúdo ofensivo, prejudicial, difamatório, ilegal, discriminatório ou que viole os direitos de terceiros.`
+- 2. ``Você concorda em utilizar este script apenas para fins legítimos e éticos, respeitando todas as leis, regulamentos e diretrizes aplicáveis. Você não deve usá-lo para disseminar conteúdo ofensivo, prejudicial, difamatório, ilegal, discriminatório ou que viole os direitos de terceiros.``
 
-3. `Ao utilizar este script, você reconhece que ele é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas. Você assume todos os riscos associados ao uso deste script e renuncia a qualquer reivindicação contra o desenvolvedor ou a OpenAI por danos resultantes do seu uso.`
+- 3. ``Ao utilizar este script, você reconhece que ele é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas. Você assume todos os riscos associados ao uso deste script e renuncia a qualquer reivindicação contra o desenvolvedor ou a OpenAI por danos resultantes do seu uso.``
 
-4. `Você concorda em não utilizar este script para contornar ou comprometer a segurança de sistemas, redes ou serviços protegidos. Não é permitido realizar ataques de negação de serviço, invasões de privacidade, exploração de vulnerabilidades ou qualquer atividade maliciosa.`
+- 4. ``Você concorda em não utilizar este script para contornar ou comprometer a segurança de sistemas, redes ou serviços protegidos. Não é permitido realizar ataques de negação de serviço, invasões de privacidade, exploração de vulnerabilidades ou qualquer atividade maliciosa.``
 
-5. `O desenvolvedor deste script não se responsabiliza por quaisquer danos, perdas ou responsabilidades decorrentes do seu uso. Você concorda em isentar o desenvolvedor e a OpenAI de qualquer responsabilidade relacionada ao uso deste script.`
+- 5. ``O desenvolvedor deste script não se responsabiliza por quaisquer danos, perdas ou responsabilidades decorrentes do seu uso. Você concorda em isentar o desenvolvedor e a OpenAI de qualquer responsabilidade relacionada ao uso deste script.``
 
 ## Nota
 Não tenho nenhuma relação com a OpenAI. Isto foi escrito para fins educacionais. Use a seu critério.
