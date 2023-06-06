@@ -12,6 +12,11 @@ Por bastante tempo, vi pela internet prompts de Bypass / Jailbreak que não func
 -  **Administração**: PoopGPT é testado diariamente para acompanhar os patchs de proteção impostos pela [OpenAI](https://openai.com/).
 -  **Atualização em Tempo Real**: Você não precisa ter que ficar pegando um código novo ou baixando algo novo a cada atualização para usar o PoopGPT. Você pode simplesmente guardar o script atual e usar ele sempre, que ele vai se atualizando automaticamente sem precisar de nenhuma ação do usuário.
 
+## ℹ️ Inject Por Bookmark
+Copie o código do script, vá em **Adicionar favorito** do seu navegador, no campo de **URL**, você vai escrever `javascript:`, depois colar o script do PoopGPT na frente e salvar. Assim, quando você clicar no favorito lá em cima, vai rodar o MOD!
+
+![B](https://cdn.discordapp.com/attachments/1095448977979211778/1115452819743449088/2023-06-05-22-24-01_Trim.gif)
+
 ## 💉 Como injetar
 
 #### 💻 Pelo Navegador de PC
