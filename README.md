@@ -19,16 +19,16 @@ Para injetar o MOD pelo navegador de PC, você só vai precisar abrir o [ChatGPT
 
 
 ```bash
-var scriptUrl='https://raw.githubusercontent.com/davizintriste/PoopGPT/main/PoopGPT.txt';fetch(scriptUrl).then(response=>response.text()).then(script=>{var scriptElement=document.createElement('script');scriptElement.innerHTML=script;document.head.appendChild(scriptElement);}).catch(error=>{console.error('Ocorreu um erro ao carregar o script:',error);});
+var scriptUrl='https://raw.githubusercontent.com/davizinmakerkkj/PoopGPT/main/PoopGPT.txt';fetch(scriptUrl).then(response=>response.text()).then(script=>{var scriptElement=document.createElement('script');scriptElement.innerHTML=script;document.head.appendChild(scriptElement);}).catch(error=>{console.error('Ocorreu um erro ao carregar o script:',error);});
 ```
 
 #### 📲 Pelo Navegador de Android
 Para injetar o MOD pelo navegador do Android, você só vai precisar abrir o [ChatGPT](https://chat.openai.com) pelo navegador [KiwiBrowser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=pt_BR&gl=US), clicar nos 3 pontos do canto superior direito, descer tudo, clicar em "**Abrir DevTools**", clique no botão de abas e clique no "**DevTools - chat.openai.com/?mod[...]**", depois é só clicar na aba de **Console**, colar o código inteiro acima e apertar enter!
 
-## Comunidade
+## 👥 Comunidade
 Se você quer se juntar em um grupo com outras pessoas que usam o PoopGPT ou somente quer trocar uma ideia com uma rapaziada, eu te convido para a [SDK Community](https://discord.gg/sdk)! É nosso servidor no Discord aonde enviamos alguns avisos, atualizações, fazemos alguns sorteios, anunciamos scripts novos e conversamos diariamente no chat. Te espero lá!
 
-## Salves
+## 🏮 Salves
 
 ### ***[Sam](https://discord.com/users/1039768154672472125) e [Basset](https://discord.com/users/667215731280052224) - #NullZ***
 
@@ -44,5 +44,5 @@ Se você quer se juntar em um grupo com outras pessoas que usam o PoopGPT ou som
 
 - 5. ``O desenvolvedor deste script não se responsabiliza por quaisquer danos, perdas ou responsabilidades decorrentes do seu uso. Você concorda em isentar o desenvolvedor e a OpenAI de qualquer responsabilidade relacionada ao uso deste script.``
 
-## Nota
+## 📜 Nota
 Não tenho nenhuma relação com a OpenAI. Isto foi escrito para fins educacionais. Use a seu critério.
