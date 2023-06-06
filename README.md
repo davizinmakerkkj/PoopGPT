@@ -1,6 +1,7 @@
-# 💩 PoopGPT 💩
+# 💩 PoopGPT - Script Injector para ChatGPT 💩
 Uma simples extensão para burlar totalmente os filtros de proteção do ChatGPT - OpenAI
 
+![A](https://cdn.discordapp.com/attachments/1095448977979211778/1115447496223760434/2.png)
 
 ## 📔 Sobre
 Por bastante tempo, vi pela internet prompts de Bypass / Jailbreak que não funcionavam sendo divulgados. Exemplos deles são o famoso [DAN](https://github.com/0xk1h0/ChatGPT_DAN) ou aqueles [DevMode](https://github.com/0xk1h0/ChatGPT_DAN). Grande parte das pessoas acreditam fielmente que esse é o máximo de capacidade que o ChatGPT pode atingir, mas é aí que eles estão enganados. PoopGPT veio pra mudar a visão sobre bypassers de IA's
