@@ -1,8 +1,6 @@
 # 💩 PoopGPT - Script Injector para ChatGPT 💩
 Uma simples extensão para burlar totalmente os filtros de proteção do ChatGPT - OpenAI
 
-![A](https://cdn.discordapp.com/attachments/1095448977979211778/1115447496223760434/2.png)
-
 ## 📔 Sobre
 Por bastante tempo, vi pela internet prompts de Bypass / Jailbreak que não funcionavam sendo divulgados. Exemplos deles são o famoso [DAN](https://github.com/0xk1h0/ChatGPT_DAN) ou aqueles [DevMode](https://github.com/0xk1h0/ChatGPT_DAN). Grande parte das pessoas acreditam fielmente que esse é o máximo de capacidade que o ChatGPT pode atingir, mas é aí que eles estão enganados. PoopGPT veio pra mudar a visão sobre bypassers de IA's
 
@@ -14,8 +12,6 @@ Por bastante tempo, vi pela internet prompts de Bypass / Jailbreak que não func
 
 ## ℹ️ Inject Por Bookmark
 Copie o código do script, vá em **Adicionar favorito** do seu navegador, no campo de **URL**, você vai escrever `javascript:`, depois colar o script do PoopGPT na frente e salvar. Assim, quando você clicar no favorito lá em cima, vai rodar o MOD!
-
-![B](https://cdn.discordapp.com/attachments/1095448977979211778/1115452819743449088/2023-06-05-22-24-01_Trim.gif)
 
 ## 💉 Como injetar
 
@@ -30,12 +26,13 @@ var scriptUrl='https://raw.githubusercontent.com/davizinmakerkkj/PoopGPT/main/Po
 #### 📲 Pelo Navegador de Android
 Para injetar o MOD pelo navegador do Android, você só vai precisar abrir o [ChatGPT](https://chat.openai.com) pelo navegador [KiwiBrowser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=pt_BR&gl=US), clicar nos 3 pontos do canto superior direito, descer tudo, clicar em "**Abrir DevTools**", clique no botão de abas e clique no "**DevTools - chat.openai.com/?mod[...]**", depois é só clicar na aba de **Console**, colar o código inteiro acima e apertar enter!
 
-## 👥 Comunidade
-Se você quer se juntar em um grupo com outras pessoas que usam o PoopGPT ou somente quer trocar uma ideia com uma rapaziada, eu te convido para a [SDK Community](https://discord.gg/sdk)! É nosso servidor no Discord aonde enviamos alguns avisos, atualizações, fazemos alguns sorteios, anunciamos scripts novos e conversamos diariamente no chat. Te espero lá!
+<!--
+Eles querem te ver bem, só não melhor que eles
 
 ## 🏮 Salves
 
 ### ***[Sam](https://discord.com/users/1039768154672472125) e [Basset](https://discord.com/users/667215731280052224) - #NullZ***
+--->
 
 ## 🛂 Responsabilidade
 
